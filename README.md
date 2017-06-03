@@ -1,4 +1,4 @@
-#web-image-crawler
+# web-image-crawler
 
 This repo includes code to download images from google web image search results. You can modify the javascript embedded in the python code so that it works for bing, yandex, flikr etc. also. They more or less follow the same DOM.
 
